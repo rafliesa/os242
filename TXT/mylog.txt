@@ -2,3 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
+ZCZC W00 100 L02 26082024 Class session
+ZCZC W00 60 L09 Weekly Assignments
+ZCZC W00 100 L02 28082024 Class session
+ZCZC W00 60 L05 SEB setup took a long time due to unspecific error
