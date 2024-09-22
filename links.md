@@ -20,7 +20,7 @@ permalink: LINKS/
 
 ### C Language
 * [C Language for Beginner](https://www.youtube.com/watch?v=KJgsSFOSQv0) --- Free course to learn C lang.
-* 
+
 
 ## Cheatsheet
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- This is how you make your github page looks better than yourself. <br>
