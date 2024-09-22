@@ -18,7 +18,7 @@ permalink: LINKS/
 #### Cyber Security
 * [Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc) --- Free course to learn cyber security. ps: Menkominfo havent watched this.
 
-## C Language
+### C Language
 * [C Language for Beginner](https://www.youtube.com/watch?v=KJgsSFOSQv0) --- Free course to learn C lang.
 * 
 
