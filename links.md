@@ -18,9 +18,10 @@ permalink: LINKS/
 #### Cyber Security
 * [Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc) --- Free course to learn cyber security. ps: Menkominfo havent watched this.
 
-### C Language
+#### C Language
 * [C Language for Beginner](https://www.youtube.com/watch?v=KJgsSFOSQv0) --- Free course to learn C lang.
 
+#### 
 
 ## Cheatsheet
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- This is how you make your github page looks better than yourself. <br>
@@ -28,4 +29,4 @@ permalink: LINKS/
 
 <br>
 <br>
-#### REV: Sun 15 Sep 2024 10:25
+#### REV: Mon 30 Sep 2024 12:50
