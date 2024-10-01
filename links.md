@@ -20,9 +20,12 @@ permalink: LINKS/
 
 #### C Language
 * [C Language for Beginner](https://www.youtube.com/watch?v=KJgsSFOSQv0) --- Free course to learn C lang.
-
-#### 
-
+* [C Pointers[(https://www.youtube.com/watch?v=DplxIq0mc_Y) --- Be careful about where you point at.
+  
+#### Memory
+* [Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8) --- Virtual memory explained.
+* [Memory Management[(https://www.tutorialspoint.com/operating_system/os_memory_management.htm) --- Explains how OS manages memories.
+ 
 ## Cheatsheet
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- This is how you make your github page looks better than yourself. <br>
 * [Bash Cheatsheet](https://devhints.io/bash) --- Very helpful when you dont have your nerdy friend around you. <br>
