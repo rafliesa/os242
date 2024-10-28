@@ -25,7 +25,7 @@ permalink: LINKS/
   
 #### Memory
 * [Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8) --- Virtual memory explained.
-* [Memory Management[(https://www.tutorialspoint.com/operating_system/os_memory_management.htm) --- Explains how OS manages memories.
+* [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) --- Explains how OS manages memories.
 
 #### Virtual Memory
 * [What is virtual memory?](https://www.youtube.com/watch?v=2quKyPnUShQ) --- Before virtual reality and virtual currency there was virtual memory. Windows has it, iOS has it and so does Android. What is it and how does it work?
