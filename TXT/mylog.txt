@@ -50,3 +50,15 @@ ZCZC W05 25 L03 Github and git related, including commit, push, pull.
 ZCZC W05 120 L14 Assignment #04.
 ZCZC W05 20 L22 Linux CLI including tar, etc.
 ZCZC W05 30 L25 C-language including Make.
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related.
+ZCZC W06 20 L01 Scele/Discord related.
+ZCZC W06 80 L07 Demo related.
+ZCZC W06 20 L40 TXT/ related in general.
+ZCZC W06 70 L05 Quiz related including studying.
+ZCZC W06 20 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W06 25 L04 Github Pages related.
+ZCZC W06 70 L06 References/Books/Documents/Browsing/GSGS related.
+ZCZC W06 25 L03 Github and git related, including commit, push, pull.
+ZCZC W06 120 L14 Assignment #04.
+ZCZC W06 20 L22 Linux CLI including tar, etc.
+ZCZC W06 30 L25 C-language including Make.
