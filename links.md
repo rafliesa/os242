@@ -30,6 +30,9 @@ permalink: LINKS/
 #### Virtual Memory
 * [What is virtual memory?](https://www.youtube.com/watch?v=2quKyPnUShQ) --- Before virtual reality and virtual currency there was virtual memory. Windows has it, iOS has it and so does Android. What is it and how does it work?
 
+#### Synchronization
+* [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) --- Operating System: Process Synchronization
+
 ## Cheatsheet
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- This is how you make your github page looks better than yourself. <br>
 * [Bash Cheatsheet](https://devhints.io/bash) --- Very helpful when you dont have your nerdy friend around you. <br>
@@ -37,4 +40,4 @@ permalink: LINKS/
 
 <br>
 <br>
-#### REV: Mon 29 Oct 2024 00:32
+#### REV: Sun 03 Nov 2024 11:32
