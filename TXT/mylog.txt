@@ -73,3 +73,10 @@ ZCZC W07 25 L03 Github and git related, including commit, push, pull.
 ZCZC W07 120 L14 Assignment #04.
 ZCZC W07 40 L22 Linux CLI including tar, etc.
 ZCZC W07 40 L25 C-language including Make.
+ZCZC W08 40 L01 Scele/Discord related
+ZCZC W08 60 L03 Github and git related, including commit, push, pull
+ZCZC W08 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 240 L18 Assignment #08
+ZCZC W08 180 L22 Linux CLI, including tar, etc.
+ZCZC W08 60 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 120 L27 SSH, key-gen, tunneling, putty, winscp

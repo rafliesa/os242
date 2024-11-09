@@ -33,9 +33,13 @@ permalink: LINKS/
 #### Synchronization
 * [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) --- Operating System: Process Synchronization
 
+#### LFS
+* [LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- Pretty helpful if you are kinda lost.<br>
+
 ## Cheatsheet
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- This is how you make your github page looks better than yourself. <br>
 * [Bash Cheatsheet](https://devhints.io/bash) --- Very helpful when you dont have your nerdy friend around you. <br>
+
 
 
 <br>
