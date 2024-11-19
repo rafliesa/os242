@@ -40,8 +40,9 @@ permalink: LINKS/
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) --- This is how you make your github page looks better than yourself. <br>
 * [Bash Cheatsheet](https://devhints.io/bash) --- Very helpful when you dont have your nerdy friend around you. <br>
 
-
+# These songs are my fav!
+* [Nina](https://www.youtube.com/watch?v=ii6Jsbe_J9k) --- .Feast - Nina
 
 <br>
 <br>
-#### REV: Sun 9 Nov 2024 16:00
+#### REV: Mon 19 Nov 2024 14:00
