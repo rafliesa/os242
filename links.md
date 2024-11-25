@@ -43,7 +43,7 @@ permalink: LINKS/
 # These songs are my fav!
 Shout out to these song that keeping my sanity while doing LFS
 * [Nina](https://www.youtube.com/watch?v=ii6Jsbe_J9k) --- .Feast - Nina
-* [Marigold] (https://www.youtube.com/watch?v=0xSiBpUdW4E) --- Aimyon - Marigold
+* [Marigold](https://www.youtube.com/watch?v=0xSiBpUdW4E) --- Aimyon - Marigold
 
 <br>
 <br>
