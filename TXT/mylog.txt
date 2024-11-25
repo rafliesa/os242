@@ -87,4 +87,9 @@ ZCZC W09 240 L18 Assignment #08
 ZCZC W09 180 L22 Linux CLI, including tar, etc.
 ZCZC W09 60 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W09 120 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W10 40 L01 Scele/Discord related
+ZCZC W10 60 L03 Github and git related, including commit, push, pull
+ZCZC W10 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 600 L18 Assignment #08
+ZCZC W10 180 L22 Linux CLI, including tar, etc.
 
